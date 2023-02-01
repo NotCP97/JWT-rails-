@@ -1,0 +1,17 @@
+{
+    "hello": {
+        "method": "get",
+        "access_type": "public",
+        "display_name": "new"
+      },
+      "hello_user": {
+        "method": "get",
+        "access_type": "public",
+        "display_name": "new"
+      },
+      "create_user": {
+        "method": "post",
+        "access_type": "public",
+        "display_name": "new"
+      }
+}
