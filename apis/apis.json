@@ -13,5 +13,10 @@
         "method": "post",
         "access_type": "public",
         "display_name": "new"
+      },
+      "login": {
+        "method": "post",
+        "access_type": "public",
+        "display_name": "new"
       }
 }
